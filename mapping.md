@@ -36,9 +36,10 @@ Thought](https://en.wikiquote.org/wiki/Kenneth_E._Iverson#Notation_as_a_Tool_of_
 ^ [Marcel Duchamp's _Nude descending a staircase
 n.2](https://en.wikipedia.org/wiki/File:Duchamp_-_Nude_Descending_a_Staircase.jpg)
 and Pablo Picasso's [Girl with a
-madolin](https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1910,_Girl_with_a_Mandolin_(Fanny_Tellier),_oil_on_canvas,_100.3_x_73.6_cm,_Museum_of_Modern_Art_New_York..jpg):
-[Cubism](https://en.wikipedia.org/wiki/Cubism#Interpretation) changed how painting and observers saw reality, by showing different
-perspectives in one image, or depicting time and space in different ways
+madolin](https://en.wikipedia.org/wiki/List_of_Picasso_artworks_1901–1910):
+[Cubism](https://en.wikipedia.org/wiki/Cubism#Interpretation) changed how
+painting and observers saw reality, by showing different perspectives in one
+image, or depicting time and space in different ways
 
 ---
 
@@ -46,7 +47,8 @@ perspectives in one image, or depicting time and space in different ways
 
 ^ [Reasons for bad
 coffee](https://commons.wikimedia.org/wiki/File:Fishbone_BadCoffeeExample.jpg).
-[Ishikawa](https://en.wikipedia.org/wiki/Ishikawa_diagram) diagrams allowed people to analyse defects and reactions with ease
+[Ishikawa](https://en.wikipedia.org/wiki/Ishikawa_diagram) diagrams allowed
+people to analyse defects and reactions with ease
 
 ---
 
@@ -73,9 +75,9 @@ information in a way that highlighted what was unknown
 > But there are also unknown unknowns — _the ones we don't know we don't know._ 
 -- Donald Rumsfeld
 
----
-
-^ The potential of finding new ways to represent what you know is exactly this: realising what _you don't know_. Mendeleev's periodic table allowed him to predict the properties of missing elements, such as gallium and germanium
+^ The potential of finding new ways to represent what you know is exactly this:
+realising what _you don't know_. Mendeleev's periodic table allowed him to
+predict the properties of missing elements, such as gallium and germanium
 
 ---
 
@@ -194,37 +196,48 @@ Shoreditch to the bottom left corner
 
 ![fit](images/Initial-Coffee-Shop-0.png)
 
-^ These are the axes used when drawing a Wardley map. There is a relatively large list of properties to decide what goes where, but there is a certain amount of wiggle room for a reason: one big part of a Wardley map is _the discussion_ that goes into creating it
+^ These are the axes used when drawing a Wardley map. There is a relatively
+large list of properties to decide what goes where, but there is a certain
+amount of wiggle room for a reason: one big part of a Wardley map is _the
+discussion_ that goes into creating it
 
 ---
 
 ![fit](images/Initial-Coffee-Shop-1.png)
 
-^ You start by placing the user somewhere in the top. Depending on your area of work, this user could be in either zone, depending on how tight the relationship might be.
+^ You start by placing the user somewhere in the top. Depending on your area of
+work, this user could be in either zone, depending on how tight the relationship
+might be.
 
 ---
 
 ![fit](images/Initial-Coffee-Shop-2.png)
 
-^ What are the user _needs_? We have done this exercise already, so it's easy. Our coffee shop serves quality coffee and in-house produced food
+^ What are the user _needs_? We have done this exercise already, so it's easy.
+Our coffee shop serves quality coffee and in-house produced food
 
 ---
 
 ![fit](images/Initial-Coffee-Shop-3.png)
 
-^ Food and coffee have needs, which have needs in turn. We go down the further from the user this is visible
+^ Food and coffee have needs, which have needs in turn. We go down the further
+from the user this is visible
 
 ---
 
 ![fit](images/Initial-Coffee-Shop-4.png)
 
-^ We get to beans, water (not commodity because the seller of the espresso machine was very specific) and power. From this map we could already draw some conclusions: we are getting generic beans to prepare high quality coffee with a good machine. Doesn't that look like a contradiction?
+^ We get to beans, water (not commodity because the seller of the espresso
+machine was very specific) and power. From this map we could already draw some
+conclusions: we are getting generic beans to prepare high quality coffee with a
+good machine. Doesn't that look like a contradiction?
 
 ---
 
 ![fit](images/Surroundings-0.png)
 
-^ Now, we could map our surrounding area. This would be an aggregate of all the close-by coffee shops. 
+^ Now, we could map our surrounding area. This would be an aggregate of all the
+close-by coffee shops.
 
 ---
 
@@ -284,7 +297,7 @@ faced a lot of inertia, for instance
 
 ---
 
-## Climatic patterns
+## Climatic __patterns__
 
 #### Or, _how's the weather in your business landscape?_
 
@@ -379,9 +392,13 @@ reason on why they don't
 
 ![](images/axes.jpg)
 
-# Pick your own axes
+# Pick your own __axes__
 
-^ What I like about Wardley maps, is that they open up new ways of seeing and interpreting reality, they are a tool for thought. New ways of seeing reality are not rare, but are usually constrained, and you may not be aware of its existence. [Photo by Jason Abdilla on Unsplash](https://unsplash.com/photos/jZWmw6007EY)
+^ What I like about Wardley maps, is that they open up new ways of seeing and
+interpreting reality, they are a tool for thought. New ways of seeing reality
+are not rare, but are usually constrained, and you may not be aware of its
+existence. [Photo by Jason Abdilla on
+Unsplash](https://unsplash.com/photos/jZWmw6007EY)
 
 ---
 
@@ -397,9 +414,13 @@ efforts, which can be seen in the following
 
 ![fit](images/Tech-Landscape-0.png)
 
+^ Here are the axis, with Python in place
+
 ---
 
 ![fit](images/Tech-Landscape-1.png)
+
+^ 
 
 ---
 
@@ -433,6 +454,10 @@ efforts, which can be seen in the following
 
 ![fit](images/Tech-Landscape-9.png)
 
+^ So here's an overview of some tools. I love Scala, but I'm not 100% sure if
+it's the right fit for the next 20 years. I already know Python, so, should I
+focus on Dask? And, what is happening with Rust?
+
 ---
 
 ^ Here's an example of personal project allocation. I don't know about you, but
@@ -445,9 +470,15 @@ projects. So, I axed a large deal.
 
 ![fit](images/Projects-0.png)
 
+^ The axes. Note that this is close-but-not-quite a quadrant diagram, because
+all positioning is relative to anchors, avoiding having a "0" or a clearly
+delimited quadrant.
+
 ---
 
 ![fit](images/Projects-1.png)
+
+^ Hobbies, to make clear what's the positioning
 
 ---
 
@@ -456,6 +487,8 @@ projects. So, I axed a large deal.
 ---
 
 ![fit](images/Projects-3.png)
+
+^ Open source, meetups, presentation...
 
 ---
 
@@ -467,19 +500,42 @@ projects. So, I axed a large deal.
 
 ---
 
-![fit](images/Projects-6.png)
+![fit](images/Projects-6.png) 
 
 ---
 
+### _This is packed_
+
+![fit](images/Projects-6.png) 
+
+---
+
+
 ![fit](images/Projects-7.png)
+
+^ First, kill obvious painful projects
 
 ---
 
 ![fit](images/Projects-8.png)
 
+^ Group stuff
+
 ---
 
 ![fit](images/Projects-9.png)
+
+^ Prioritise "low hanging fruit"
+
+---
+
+# Summary
+
+[.build-lists: true]
+
+* There is more to planning than Gantt charts
+* You don't need to _be_ a business to plan like one
+* You just need to have a problem, a piece of paper and something to write with
 
 ---
 
@@ -487,7 +543,9 @@ projects. So, I axed a large deal.
 
 * [S. Wardley, _Wardley Mapping Online Book_](https://medium.com/wardleymaps)
 * [M. Nielsen, _Thought as a Technology_](http://cognitivemedium.com/tat/index.html)
+* [D. Meadows, _Thinking in Systems_](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA)
 * [E. Tufte, _Envisioning Information_](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_1?keywords=envisioning+information&qid=1559901783&s=gateway&sr=8-1)
+* [M. Lima, _Visual Complexity: Mapping Patterns of Information_](https://www.amazon.com/Visual-Complexity-Mapping-Patterns-Information/dp/1616892196/ref=pd_bxgy_2/145-1497482-8013630?_encoding=UTF8&pd_rd_i=1616892196&pd_rd_r=cff59bd4-8911-11e9-b65a-65ead2c4e194&pd_rd_w=wj9sw&pd_rd_wg=IpwOu&pf_rd_p=a2006322-0bc0-4db9-a08e-d168c18ce6f0&pf_rd_r=765AF27RCBSGE4HNNZDE&psc=1&refRID=765AF27RCBSGE4HNNZDE)
 * [K. Iverson, _Notation as a Tool for Thought_](https://www.jsoftware.com/papers/tot.htm)
 
 ---
@@ -514,7 +572,5 @@ The repository is
 
 ---
 
-# Further references
-
----
+# EOF
 
