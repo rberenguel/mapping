@@ -17,8 +17,10 @@ in the PDF.
 
 ---
 
-My [Deckset-to-Reveal converter](https://github.com/rberenguel/awkrdeck) is
-barfing at something (I suspect it's a too-long footnote right now) so I can't
-share an interactive HTML for this (yet, there will be one at some point)
+You can find an exported version using [reveal.js](http://revealjs.com)
+[here](https://rberenguel.github.io/mapping/mapping.html#/). It is
+not 100% faithful to the PDF/Deckset version but is close enough (and animated
+gifs play). It's also currently showing some weird slides because I have not
+implemented a command. 
 
 ---
