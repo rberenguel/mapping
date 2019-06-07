@@ -572,5 +572,12 @@ The repository is
 
 ---
 
+# Further references
+
+* [S. Wardley, _Playing Chess With Companies_ (OSCON 2017, on Safari Books Online)](https://www.oreilly.com/library/view/oscon-2017-/9781491976227/video306776.html)
+* [S. Wardley _Crossing the River by Feeling the Stones_]https://skillsmatter.com/skillscasts/13456-keynote-simon-wardley
+
+---
+
 # EOF
 
