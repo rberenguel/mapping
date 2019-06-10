@@ -18,9 +18,9 @@ in the PDF.
 ---
 
 You can find an exported version using [reveal.js](http://revealjs.com)
-[here](https://rberenguel.github.io/mapping/mapping.html#/). It is
-not 100% faithful to the PDF/Deckset version but is close enough (and animated
-gifs play). It's also currently showing some weird slides because I have not
-implemented a command. 
+[here](https://rberenguel.github.io/mapping/mapping.html#/). It is not 100%
+faithful to the PDF/Deckset version but is close enough (and animated gifs
+play). You can show speaker notes in Reveal by pressing the letter `s` (may not
+show perfectly in Reveal).
 
 ---
