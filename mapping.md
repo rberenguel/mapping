@@ -402,6 +402,8 @@ Unsplash](https://unsplash.com/photos/jZWmw6007EY)
 
 ---
 
+![fit](images/Tech-Landscape-0.png)
+
 ^ Here's now an example of a type of map that I needed (this will be an
 abbreaviated version). First, the axes: size of the potential market and
 learning complexity. Basically I wanted to decide where I should focus effort in
@@ -410,17 +412,11 @@ market demand. One thing that is not represented but is important for the
 consideration is how large of a pool of candidates is already in the market
 (there are ways to represent this in 2D, but would make this exposition harder).
 This representation helps us form an idea of where we may want to focus our
-efforts, which can be seen in the following
-
-![fit](images/Tech-Landscape-0.png)
-
-^ Here are the axis, with Python in place
+efforts, which can be seen in the following. Here are the axis, with Python in place
 
 ---
 
 ![fit](images/Tech-Landscape-1.png)
-
-^ 
 
 ---
 
@@ -460,19 +456,17 @@ focus on Dask? And, what is happening with Rust?
 
 ---
 
+![fit](images/Projects-0.png)
+
 ^ Here's an example of personal project allocation. I don't know about you, but
 I have _too many_ personal/semi-work related projects. The axes are effort to
 master vertically and (immediate) utility in the horizontal. Something can be
 utility 0 and "infinite" effort to master (ukulele). Here I add some so you have
 an idea. I added lines to link related projects (I have blurred the text for
 privacy). Clearly, I had an overbooking of not-that-useful-but-quite-effortful
-projects. So, I axed a large deal.
-
-![fit](images/Projects-0.png)
-
-^ The axes. Note that this is close-but-not-quite a quadrant diagram, because
-all positioning is relative to anchors, avoiding having a "0" or a clearly
-delimited quadrant.
+projects. So, I axed a large deal. The axes. Note that this is
+close-but-not-quite a quadrant diagram, because all positioning is relative to
+anchors, avoiding having a "0" or a clearly delimited quadrant.
 
 ---
 
@@ -504,9 +498,9 @@ delimited quadrant.
 
 ---
 
-### _This is packed_
-
 ![fit](images/Projects-6.png) 
+
+### _This is packed_
 
 ---
 
@@ -575,7 +569,8 @@ The repository is
 # Further references
 
 * [S. Wardley, _Playing Chess With Companies_ (OSCON 2017, on Safari Books Online)](https://www.oreilly.com/library/view/oscon-2017-/9781491976227/video306776.html)
-* [S. Wardley _Crossing the River by Feeling the Stones_]https://skillsmatter.com/skillscasts/13456-keynote-simon-wardley
+* [S. Wardley, _Crossing the River by Feeling the Stones_](https://skillsmatter.com/skillscasts/13456-keynote-simon-wardley)
+* [G. Adzic, _Skip the first three months of development for your next app_](https://www.youtube.com/watch?v=deHM34b21v4&app=desktop)
 
 ---
 
